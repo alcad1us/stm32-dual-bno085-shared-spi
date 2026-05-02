@@ -46,7 +46,7 @@ Both IMUs streaming orientation data in real-time over a shared SPI bus. SAMPLES
 
 ### Sensors
 - 2× **BNO085** (Adafruit breakout or compatible)
-- PS0 and PS1 pins tied to 3.3 V (or solder them behind the board for high mode check it from datasheet) → SPI mode active
+- PS0 and PS1 pins tied to 3.3 V (or solder the PS0/PS1 pads on the back of the board — see datasheet for I2C/UART mode selection you can check my I2C connection via my repos) → SPI mode active
 
 ---
 
