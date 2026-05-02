@@ -249,6 +249,7 @@ Calculate_Euler()
 
 **Muhammet Yusuf Ozkan**
 Embedded Systems Engineer — RACLAB Rover Project
+Konya Technical University 3rd Grade EEE student.
 
 ---
 
