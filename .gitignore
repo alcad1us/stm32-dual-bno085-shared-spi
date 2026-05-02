@@ -1,0 +1,27 @@
+# STM32CubeIDE build artifacts
+Debug/
+Release/
+*.elf
+*.hex
+*.bin
+*.map
+*.list
+*.su
+*.cyclo
+*.d
+*.o
+
+# IDE project files
+.cproject
+.project
+.settings/
+*.launch
+.mxproject
+
+# Backup files
+*.bak
+*~
+
+# OS
+.DS_Store
+Thumbs.db
