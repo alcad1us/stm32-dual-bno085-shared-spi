@@ -12,6 +12,14 @@ The core engineering challenge — and the solution documented here — is achie
 
 ---
 
+## Live Demo
+
+https://github.com/alcad1us/stm32-dual-bno085-shared-spi/raw/master/docs/demo.mp4
+
+Both IMUs streaming orientation data in real-time over a shared SPI bus. SAMPLES counters climbing in sync confirms zero packet loss.
+
+---
+
 ## Key Features
 
 | Feature | Detail |
