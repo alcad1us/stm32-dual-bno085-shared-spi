@@ -1,3 +1,7 @@
+
+
+
+
 # STM32F407 — Dual BNO085 IMU on Shared SPI Bus
 
 **RACLAB Rover Navigation System** | STM32F407VG Discovery + 2× BNO085 | Stable 100 Hz Dual-IMU Driver
@@ -15,6 +19,7 @@ The core engineering challenge — and the solution documented here — is achie
 ## Live Demo
 
 https://github.com/alcad1us/stm32-dual-bno085-shared-spi/raw/master/docs/demo.mp4
+https://github.com/user-attachments/assets/b5f097c7-6866-43f3-828e-18843e60ebdf
 
 Both IMUs streaming orientation data in real-time over a shared SPI bus. SAMPLES counters climbing in sync confirms zero packet loss.
 
